@@ -1,0 +1,10 @@
+/.idea/
+*.iml
+/.vscode/
+
+/node_modules/
+/lib/
+/docs/
+
+npm-debug.json
+package-lock.json
